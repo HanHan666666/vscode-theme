@@ -10,7 +10,7 @@
         <option name="CARET_COLOR" value="bbbebf"/>
         <option name="CARET_ROW_COLOR" value="242526"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="191a1b"/>
-        <option name="GUTTER_BACKGROUND" value="121314"/>
+        <option name="GUTTER_BACKGROUND" value="191a1c"/>
         <option name="INDENT_GUIDE" value="838485"/>
         <option name="LINE_NUMBERS_COLOR" value="858889"/>
         <option name="RIGHT_MARGIN_COLOR" value="848484"/>
@@ -233,7 +233,7 @@
         <option name="DART_SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -370,7 +370,7 @@
         <option name="DEFAULT_SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="DEFAULT_SEMICOLON">
@@ -383,7 +383,7 @@
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="ffc66d"/>
+                <option name="FOREGROUND" value="d2a8ff"/>
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -606,12 +606,17 @@
         </option>
         <option name="JAVA.SECONDARY_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="cc85c6"/>
+                <option name="FOREGROUND" value="79c0ff"/>
+            </value>
+        </option>
+        <option name="JAVA_KEYWORD">
+            <value>
+                <option name="FOREGROUND" value="ff7b72"/>
             </value>
         </option>
         <option name="JAVA.TYPE_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="47ccb1"/>
+                <option name="FOREGROUND" value="79c0ff"/>
             </value>
         </option>
         <option name="JS.CLASS">
@@ -632,7 +637,7 @@
         <option name="JS.FROM_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION"/>
@@ -1020,7 +1025,7 @@
         <option name="PY.CLASS_REFERENCE">
             <value>
                 <option name="FOREGROUND" value="47ccb1"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="PY.Jupyter.CLASS_REFERENCE">
@@ -1043,7 +1048,7 @@
         <option name="PY.FUNCTION_CALL">
             <value>
                 <option name="FOREGROUND" value="e6e6aa"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="PY.Jupyter.FUNCTION_CALL">
@@ -1055,7 +1060,7 @@
         <option name="PY.IMPORTS">
             <value>
                 <option name="FOREGROUND" value="47ccb1"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="PY.Jupyter.IMPORTS">
@@ -1092,7 +1097,7 @@
         <option name="PY.SECONDARY_KEYWORD_WITH_BG">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="PY.Jupyter.SECONDARY_KEYWORD_WITH_BG">
@@ -1121,7 +1126,7 @@
         </option>
         <option name="ReSharper.ASP_NET_RAZOR_CODE_BLOCK">
             <value>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1181,7 +1186,7 @@
         </option>
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ffc66d"/>
+                <option name="FOREGROUND" value="d2a8ff"/>
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
@@ -1209,7 +1214,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
@@ -1228,7 +1233,7 @@
         <option name="TS.FROM_KEYWORD">
             <value>
                 <option name="FOREGROUND" value="cc85c6"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
             </value>
         </option>
         <option name="TS.MODULE_KEYWORD">
@@ -1271,14 +1276,14 @@
         <option name="XML_PROLOGUE">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
         <option name="XML_TAG">
             <value>
                 <option name="FOREGROUND" value="d4d4d4"/>
-                <option name="BACKGROUND" value="121314"/>
+                <option name="BACKGROUND" value="191a1c"/>
                 <option name="EFFECT_TYPE" value="5"/>
             </value>
         </option>
